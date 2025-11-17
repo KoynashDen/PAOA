@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YK/n+iNYzsg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\helli\\RiderProjects\\PAOA\\PAOA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\helli\\.nuget\\packages\\mathnet.numerics\\6.0.0-beta2\\mathnet.numerics.6.0.0-beta2.nupkg.sha512"
+  ],
+  "logs": []
+}

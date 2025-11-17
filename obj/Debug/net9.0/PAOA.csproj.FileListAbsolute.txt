@@ -1,0 +1,17 @@
+C:\Users\helli\RiderProjects\PAOA\bin\Debug\net9.0\PAOA.exe
+C:\Users\helli\RiderProjects\PAOA\bin\Debug\net9.0\PAOA.deps.json
+C:\Users\helli\RiderProjects\PAOA\bin\Debug\net9.0\PAOA.runtimeconfig.json
+C:\Users\helli\RiderProjects\PAOA\bin\Debug\net9.0\PAOA.dll
+C:\Users\helli\RiderProjects\PAOA\bin\Debug\net9.0\PAOA.pdb
+C:\Users\helli\RiderProjects\PAOA\obj\Debug\net9.0\PAOA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helli\RiderProjects\PAOA\obj\Debug\net9.0\PAOA.AssemblyInfoInputs.cache
+C:\Users\helli\RiderProjects\PAOA\obj\Debug\net9.0\PAOA.AssemblyInfo.cs
+C:\Users\helli\RiderProjects\PAOA\obj\Debug\net9.0\PAOA.csproj.CoreCompileInputs.cache
+C:\Users\helli\RiderProjects\PAOA\obj\Debug\net9.0\PAOA.dll
+C:\Users\helli\RiderProjects\PAOA\obj\Debug\net9.0\refint\PAOA.dll
+C:\Users\helli\RiderProjects\PAOA\obj\Debug\net9.0\PAOA.pdb
+C:\Users\helli\RiderProjects\PAOA\obj\Debug\net9.0\PAOA.genruntimeconfig.cache
+C:\Users\helli\RiderProjects\PAOA\obj\Debug\net9.0\ref\PAOA.dll
+C:\Users\helli\RiderProjects\PAOA\bin\Debug\net9.0\MathNet.Numerics.dll
+C:\Users\helli\RiderProjects\PAOA\obj\Debug\net9.0\PAOA.csproj.AssemblyReference.cache
+C:\Users\helli\RiderProjects\PAOA\obj\Debug\net9.0\PAOA.csproj.Up2Date
